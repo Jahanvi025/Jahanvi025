@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/](https://jahanvi025.github.io/PRODIGY_WD_04/)<br>– Currently working as a Web Developer <br>– Know about my experiences [Resume](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
+<p align="left">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/]<br>– Currently working as a Web Developer <br>– Know about my experiences [Resume](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
 
 ###
 
