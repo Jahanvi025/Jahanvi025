@@ -84,7 +84,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi025&" alt="jahanvi025" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi025&" alt="jahanvi025" /></p>
 
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake-dark.svg" />
