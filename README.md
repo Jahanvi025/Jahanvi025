@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/](https://jahanvi025.github.io/PRODIGY_WD_04/)<br>– Currently working as a Web Developer <br>– Know about my experiences [https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](Resume)</p>
+<p align="left">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/](https://jahanvi025.github.io/PRODIGY_WD_04/)<br>– Currently working as a Web Developer <br>– Know about my experiences [Resume](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
 
 ###
 
@@ -50,7 +50,7 @@
 </div>
 
 ###
-
+<br>
 <h2 align="left">📱Social  Links :</h2>
 
 ###
@@ -89,6 +89,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanvi025&show_icons=true&locale=en&layout=compact" alt="jahanvi025" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahanvi025&show_icons=true&locale=en" alt="jahanvi025" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi025&" alt="jahanvi025" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi025&" alt="jahanvi025" /></p>
