@@ -4,19 +4,19 @@
 
 ###
 
-<h1 align="left">Hello World!, I'm Jahanvi, a Full Stack Developer 👻</h1>
+<h1 align="center">Hello World!, I'm Jahanvi, a Full Stack Developer 👻</h1>
 
 ###
 
-<p align="left">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/](https://jahanvi025.github.io/PRODIGY_WD_04/)<br>– Currently working as a Web Developer <br>– Know about my experiences [Resume](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
+<p align="center">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/](https://jahanvi025.github.io/PRODIGY_WD_04/)<br>– Currently working as a Web Developer <br>– Know about my experiences [Resume](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
 
 ###
 
-<h2 align="left">💻Tech Stack :</h2>
+<h2 align="center">💻Tech Stack :</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -50,11 +50,11 @@
 </div>
 
 ###
-<h2 align="left">📱Social  Links :</h2>
+<h2 align="center">📱Social  Links :</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/jahanvi025" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
