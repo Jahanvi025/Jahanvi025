@@ -50,7 +50,6 @@
 </div>
 
 ###
-<br>
 <h2 align="left">📱Social  Links :</h2>
 
 ###
@@ -74,8 +73,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h4 align="center">Profile Views</h4>
 
