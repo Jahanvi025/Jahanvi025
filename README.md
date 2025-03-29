@@ -1,6 +1,4 @@
 <div align="center">
-  <img height="300" src="https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252489.jpg?t=st=1742818429~exp=1742822029~hmac=26e1572f2efe56ebbdfc74f025aa65ba7c95f8e7a235c19b57f2aabc25f5e221&w=1380"  />
-</div>
 
 ###
 
