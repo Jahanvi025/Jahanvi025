@@ -1,91 +1,89 @@
-<div align="center">
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="girl coding chill" align="center"/>
 
-###
+</p>
 
-<h1 align="left">Hello World!, I'm Jahanvi, a Full Stack Developer 👻</h1>
+<h1 align="center">Hey there 👋 I'm <span style="color:#fca5a5;">Jahanvi</span></h1>
+<h3 align="center">Full Stack Developer | Web Enthusiast | Lifelong Learner</h3>
 
-###
+---
 
-<p align="left">– I’m currently learning SQL and Typescript.<br>– All of my projects are available at [https://jahanvi025.github.io/PRODIGY_WD_04/]<br>– Currently working as a Web Developer <br>– Know about my experiences [Resume](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
+### 🌟 About Me
 
-###
+- 🎯 Currently learning **SQL** and **TypeScript**
+- 💼 Working as a **Web Developer**
+- 🌐 Check out my portfolio: [PRODIGY_WD_04](https://jahanvi025.github.io/PRODIGY_WD_04/)
+- 📝 View my resume: [Resume Link](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<h2 align="left">💻Tech Stack :</h2>
+---
 
-###
+### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </div>
 
-###
-<h2 align="left">📱Social  Links :</h2>
+---
 
-###
+### 📫 Connect With Me
 
 <div align="left">
-  <a href="www.linkedin.com/in/jahanvi025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jahanvi025" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
-  <a href="https://discord.com/channels/jahanvi025_45460" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.com/users/jahanvi025_45460" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
   </a>
   <a href="https://codesandbox.io/u/jahanvi025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="40" />
   </a>
   <a href="https://codepen.io/Jahanvi_webpage" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="40" />
   </a>
-  <a href="789jahanvi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:789jahanvi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
   </a>
 </div>
 
-###
+---
 
-<h4 align="center">Profile Views</h4>
+### 🔥 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi025&theme=radical" alt="streak stats" />
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jahanvi025/count.svg?"  />
-</div>
+---
 
-###
+### 🐍 Contribution Snake
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi025&" alt="jahanvi025" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake.svg" />
+  </picture>
+</p>
 
-<picture align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jahanvi025/Jahanvi025/output/github-snake.svg" />
-</picture>
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jahanvi025/count.svg?" />
+</p>
