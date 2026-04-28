@@ -10,8 +10,8 @@
 
 ### 🌟 About Me
 
-- 🎯 Currently learning **SQL** and **TypeScript**
-- 💼 Working as a **Web Developer**
+- 🎯 Currently learning **TypeScript**
+- 💼 Working as a **MERN Stack Developer**
 - 🌐 Check out my portfolio: [PRODIGY_WD_04](https://jahanvi025.github.io/PRODIGY_WD_04/)
 - 📝 View my resume: [Resume Link](https://www.canva.com/design/DAGcJwGw0zY/sIvB4Bj4vvoGSBepLPwuYg/edit?utm_content=DAGcJwGw0zY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
